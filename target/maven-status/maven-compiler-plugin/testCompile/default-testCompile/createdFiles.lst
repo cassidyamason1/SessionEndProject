@@ -1,0 +1,3 @@
+testcases\logintest.class
+pages\saucelabsLogin.class
+testcases\saucelabsBase.class
